@@ -1,6 +1,6 @@
-# Todolist Chllenge-1
+# Todolist Chllenge-2
 
-Todolist Chllenge의 1일차입니다.
+Todolist Chllenge의 2일차입니다.
 
 ## 사용 스택
 
